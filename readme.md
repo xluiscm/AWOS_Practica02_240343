@@ -10,5 +10,5 @@ para el manejo de variables, procesos y memoria en el contexto del desarrollo we
 
 <p align = "justify">
 Esta practica sera desarrollada con estrucutura de ramales, para el estudiante comience con la manipulacion 
-correcta de ramas en el contexto de control de versiones y desarrollo colaborativo utilizando Git y GitHub.
+correcta de ramas en el contexto de control de versiones y desarrollo colaborativo utilizando Git y GitHub .
 </p>
