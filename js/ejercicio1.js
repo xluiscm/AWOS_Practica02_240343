@@ -7,6 +7,12 @@ multilineas */
 
 // 1. Utilizando la palabra reservada "VAR"
 
+const bg = "linear-gradient(45deg, rgba(52,152,219,1) 0%, rgba(26, 188, 156, 1) 50%)";
+
+const style_console = `background: ${bg}; color: white; border-radius: 6px; padding:4px; font-size:1.0rem; font-weight:bold;`;
+
+console.log("%cEjercicio 01: Declaracion de Variables", style_console);
+
 console.warn("Declaracion de variables utilizando VAR");
 console.error("--------------------------------------------------");
 
