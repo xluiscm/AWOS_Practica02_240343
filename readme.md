@@ -18,3 +18,5 @@ correcta de ramas en el contexto de control de versiones y desarrollo colaborati
 | --- | --- | --- | --- |
 |1.| Declaración de Variables| 1 | ✅ Finalizado |
 |2.| Tipos de Datos| 7 | ✅ Finalizado |
+|3.| Funciones | 7 | ✅ Finalizado |
+
